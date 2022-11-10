@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(19, 225, 77);
+}
+
+#scoredisplay {
+    font-size: larger;
+    margin-left: 50px;
+    float:left;
+}
+
+#TIME {
+    font-size: larger;
+    margin-right: 50px;
+    float:right;
+}
+
+#sketchname {
+    color: black;
+}
